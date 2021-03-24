@@ -1,0 +1,30 @@
+.bg-header {
+    background-color: #202020;
+}
+
+.bg-navbar {
+    background-color: #222222;
+}
+
+.bg-content {
+    background-color: #1A1A1A;
+}
+
+.bg-block-header {
+    background-color: #2F2F2F;
+}
+
+.bg-block-content {
+    background-color: #2C2C2C;
+}
+
+.size-11 {
+    font-size: 11px;
+}
+.size-12 {
+    font-size: 12px;
+}
+
+.size-13 {
+    font-size: 13px;
+}
